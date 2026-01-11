@@ -1,4 +1,4 @@
-# SPDX-License-Identifier: Apache-2.0
+python # SPDX-License-Identifier: Apache-2.0
 
 bind = "unix:/var/run/cabotage/cabotage.sock"
 backlog = 512
